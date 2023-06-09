@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MovieRama</string>
+
+    <string name="home_screen_search">Search MovieRama</string>
+    <string name="home_screen_error">Something went wrong</string>
+
+    <string name="favorite_icon_content_description">Favorite</string>
+
+    <string name="details_screen_go_back_content_description">Go Back</string>
+    <string name="details_screen_similar_movies_content_description">Similar Movie</string>
+    <string name="details_screen_title_description">DESCRIPTION</string>
+    <string name="details_screen_title_director">DIRECTOR</string>
+    <string name="details_screen_title_cast">CAST</string>
+    <string name="details_screen_title_similar_movies">SIMILAR MOVIES</string>
+    <string name="details_screen_title_reviews">REVIEWS</string>
+</resources>
